@@ -10,6 +10,7 @@
 
 * [RegexOne](https://regexone.com) - Good interactive tutorial for understanding the basics
 * [RegExr](http://regexr.com/) - Regular expressions test utility
+* http://www.regular-expressions.info/ - useful resource
 
 ## Self education (CS)
 
