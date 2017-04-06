@@ -9,6 +9,7 @@
 ## Programming
 
 * https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/ - What you should know about unicode - programming, charset, character, unicode, encoding
+* [Glade tutorials](https://wiki.gnome.org/action/show/Apps/Glade/Tutorials) - UI builder for Gtk applications
 * [Python Gtk3+ Tutorial](http://python-gtk-3-tutorial.readthedocs.io/en/latest/)
 
 ## RegEx (Regular Expressions)
